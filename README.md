@@ -134,4 +134,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ---
 
-**Desarrollado con ❤️ para apoyar a los artesanos locales**
+**Desarrollado John Christopher Barzola Villamar para la Autonoma 4 del TES para la materia de Diseño de Sitios Web impartida por el Ing. Angel Benalcazar.**
